@@ -1,0 +1,15 @@
+[
+  {
+    "firstname": "Fred",
+    "link": "https://www.google.com/"
+  },
+  {
+    "firstname": "Lisa",
+    "link": "https://www.bing.com/"
+  },
+  {
+    "firstname": "Malcolm",
+    "link": "https://www.yahoo.com/"
+  }
+
+]
