@@ -1,15 +1,18 @@
 [
   {
     "firstname": "Fred",
-    "link": "https://www.google.com/"
+    "link": "https://www.google.com/",
+    "favAnimal": "Cats"
   },
   {
     "firstname": "Lisa",
-    "link": "https://www.bing.com/"
+    "link": "https://www.bing.com/",
+    "favAnimal": "Cats"
   },
   {
     "firstname": "Malcolm",
-    "link": "https://www.yahoo.com/"
+    "link": "https://www.yahoo.com/",
+    "favAnimal": "Spiders"
   }
 
 ]
